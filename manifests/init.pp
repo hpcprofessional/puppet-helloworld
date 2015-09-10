@@ -1,3 +1,3 @@
 class helloworld {
-  notify { 'hello, world! Welcome to Puppet Enterprise!': }
+  notify { 'Message 2, Electric Boogaloo': }
  }
